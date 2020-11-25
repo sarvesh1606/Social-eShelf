@@ -28,4 +28,4 @@ enter your username, email and password
 ```
 python manage.py runserver
 ```
-5. visit admin panel at `127.0.0.1:8000/admin` to enter admin panel of the project
+5. visit admin panel at `127.0.0.1:8000/admin` 
